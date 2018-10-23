@@ -1,0 +1,10 @@
+header {
+	font-family: "American Typewriter", serif;
+	font-size: 100px;
+	font-weight: bolder;
+}
+
+img {
+  max-width:200%;
+  max-height:200%;
+}
